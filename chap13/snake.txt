@@ -1,0 +1,5 @@
+snake
+python
+django
+machine learning
+snake is not good
